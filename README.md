@@ -44,5 +44,4 @@ This Hospital Management System is a Python program that helps hospitals manage 
 <img width="921" height="629" alt="Screenshot 2025-11-21 225513" src="https://github.com/user-attachments/assets/da88f290-69f0-4171-902f-2c7c7efb20a4" />
 <img width="1046" height="642" alt="Screenshot 2025-11-21 225717" src="https://github.com/user-attachments/assets/ccbb09ba-b9cf-4a55-af00-bfdf8a94a162" />
 
-# CODE 
 
