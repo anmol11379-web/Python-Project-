@@ -22,7 +22,7 @@ This Hospital Management System is a Python program that helps hospitals manage 
 # Steps to install & run the project
 1. Install Python 
 2. SetUp VS code 
-3. Create File name Hospital_Management.py
+3. Create File name HospitalManagementSystem.py
 4. Write Code and Save it 
 5. Execute the Code and record the output
 
